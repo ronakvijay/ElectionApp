@@ -1,10 +1,6 @@
 
-# Election - DAPP Tutorial
-Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
-
-**Full Free Video Tutorial:**
-https://youtu.be/3681ZYbDSSk
-
+# Election - DAPP
+ Decentralized application, or Dapp, on the Ethereum Network!
 
 Follow the steps below to download, install, and run this project.
 
@@ -17,7 +13,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/dappuniversity/election`
+`https://github.com/ronakvijay/ElectionApp.git`
 
 ## Step 2. Install dependencies
 ```
