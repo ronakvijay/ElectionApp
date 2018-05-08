@@ -1,5 +1,5 @@
 
-# Election - DAPP
+# Election <-> DAPP
 Decentralized application, or Dapp, on the Ethereum Network!
 
 Follow the steps below to download, install, and run this project.
